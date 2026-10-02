@@ -108,7 +108,7 @@ gh skill preview SoMic520/r-soil-scientific-figures r-soil-scientific-figures
 ## 下载与更新
 
 - [最新发布包](https://github.com/SoMic520/r-soil-scientific-figures/releases/latest)：适合下载、留存或按平台说明手动安装。
-- [当前技能 ZIP](dist/._r-soil-scientific-figures-skill-20260816-v1.zip) 与 [SHA-256 校验值](dist/SHA256SUMS.txt)：用于核对文件完整性。
+- [当前技能 ZIP](dist/r-soil-scientific-figures-skill-20260816-v1.zip) 与 [SHA-256 校验值](dist/SHA256SUMS.txt)：用于核对文件完整性。
 - 更新已安装的技能：
 
 ```shell
